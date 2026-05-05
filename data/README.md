@@ -6,5 +6,5 @@ Default file used in the quickstart notebook - contains the processed features f
 
 Files used to generate the above features in case there is any errors with the above file:
 
-- `gb1_esm2_embeddings.pt`
+- `gb1_esm2_embeddings.pt` - too large to upload to github so please find in google drive at: https://drive.google.com/file/d/150etNqYjLZp0_SJljnLBiNPibjKgqX3g/view?usp=sharing
 - `gb1_splits.csv`
