@@ -51,6 +51,17 @@ Best CNN configuration used in the quickstart notebook:
 - Weight decay: `1e-3`
 - Batch size: `128`
 
+Best attention configuration used in the quickstart notebook:
+
+- Global branch: `(128, 64)` hidden dimensions
+- Local branch: Transformer-style attention encoder with attention dimension `128`, `8` heads, `1` layer, and mean pooling
+- Fusion branch: `(64,)` hidden dimensions
+- Dropout: `0.1`
+- Optimizer: AdamW
+- Learning rate: `1e-3`
+- Weight decay: `1e-3`
+- Batch size: `128`
+
 ## Data files
 
 The quickstart notebook expects data files in the `data/` directory.
