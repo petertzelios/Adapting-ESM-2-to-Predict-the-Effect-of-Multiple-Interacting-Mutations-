@@ -1,5 +1,7 @@
 # Adapting ESM-2 to Predict the Effect of Multiple Interacting Mutations
 
+Class project for CBMF 4761. Goal of the project is to use frozen ESM-2 embeddings to predict the impact of multiple simultaneous mutations in the GB-1 dataset. It explores a variety of feature engineering and secondary model strategies.
+
 This repository contains the code and reproducibility materials for Peter Tzelios's COMS/CBMF 4761 final project on adapting ESM-2 embeddings for multi-mutation fitness prediction on the GB1 benchmark.
 
 The project evaluates whether lightweight secondary models trained on frozen ESM-2 embeddings can improve prediction of multiple interacting mutations. The main workflow has two stages:
