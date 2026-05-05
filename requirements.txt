@@ -1,0 +1,9 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+tqdm
+torch
+# fair-esm is only needed if regenerating ESM-2 embeddings from amino acid sequences.
+# fair-esm
