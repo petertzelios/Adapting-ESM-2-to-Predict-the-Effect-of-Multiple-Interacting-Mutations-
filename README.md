@@ -38,7 +38,7 @@ Post-midpoint secondary model exploration. This notebook contains the fused-mode
 
 ### `CBMF4761_project_GB1_ESM2_quickstart_best_CNN.ipynb`
 
-Small reproduction notebook intended for quick grading/review. It loads the processed features or full embeddings, reconstructs the final global mean + local mutation-window representation, and trains only the best fused CNN configuration across all three FLIP splits.
+Small reproduction notebook intended for quick grading/review. It loads the processed features or full embeddings, reconstructs the final global mean + local mutation-window representation, and trains the best fused CNN and best fused attention configurations across all three FLIP splits. It also generates the train/test loss curves used for Figure 7 in the final report.
 
 Best CNN configuration used in the quickstart notebook:
 
