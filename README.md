@@ -78,6 +78,8 @@ The metadata table includes:
 
 The split columns should contain `train` and `test` labels which are aligned with the official FLIP train-test data splits.
 
+This file was too large to upload to github so please find in google drive at: https://drive.google.com/file/d/1Z2G2VZUG9z-pbq_83EUB6gDKX2OvhFVc/view?usp=share_link
+
 ### Full embedding file: `data/gb1_esm2_embeddings.pt`
 
 If there is a failure in using the `gb1_features_k5.pt`, the quickstart notebook can rebuild features from the full per-residue ESM-2 embedding file. The notebook supports a dictionary with the following expected keys or close variants:
