@@ -1,14 +1,10 @@
 # Data directory
 
-Place project data files here before running the quickstart notebook.
-
-Preferred quickstart file:
+Default file used in the quickstart notebook - contains the processed features from the feature engineering portion of the project:
 
 - `gb1_features_k5.pt`
 
-Optional / fallback files:
+Files used to generate the above features in case there is any errors with the above file:
 
 - `gb1_esm2_embeddings.pt`
 - `gb1_splits.csv`
-
-Large `.pt` files are ignored by `.gitignore` by default. If a file is too large for GitHub, host it externally and link to it from the main README.
