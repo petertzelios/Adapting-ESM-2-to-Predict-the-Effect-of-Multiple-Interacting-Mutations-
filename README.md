@@ -90,6 +90,8 @@ If there is a failure in using the `gb1_features_k5.pt`, the quickstart notebook
 - `two_vs_rest`
 - `three_vs_rest`
 
+This file was too large to upload to github so please find in google drive at: https://drive.google.com/file/d/150etNqYjLZp0_SJljnLBiNPibjKgqX3g/view?usp=sharing.
+
 ### Metadata CSV: `data/gb1_splits.csv`
 
 Contains just the metadata for quick exploration of the train/test splits, fitness, etc.:
